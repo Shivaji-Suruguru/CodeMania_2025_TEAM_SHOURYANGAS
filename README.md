@@ -48,9 +48,29 @@ npm run dev
 
 This project is built with:
 
+FRONTEND:
 - Vite
 - TypeScript
 - React
 - shadcn-ui
 - Tailwind CSS
+
+BACKEND:
+-DeepSeek R1 Model
+-Fast API
+-PYTHON
+
+## Project Status
+
+### Backend Status
+The backend implementation has been completed successfully, featuring a resume analysis system that can process and evaluate candidate information.
+
+### Integration Status
+The integration between the frontend and backend components is currently in progress and has not been completed yet. This includes:
+- API integration
+- Data flow implementation
+- End-to-end testing
+
+*Screenshot shows the resume analysis system in action, demonstrating the AI-powered analysis of candidate profiles.*
+![Screenshot (28)](https://github.com/user-attachments/assets/e3fda4d2-db39-4723-8a88-7d5025ed21f2)
 
