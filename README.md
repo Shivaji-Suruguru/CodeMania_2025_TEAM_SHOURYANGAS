@@ -1,4 +1,4 @@
-# Welcome to Our Ai resume analyser for recuriters
+# Welcome to Our Ai Resume Analyser for Recuriters
 ## Project info
 
 **URL**: [https://code-mania-2025-team-shouryangas.vercel.app/](https://code-mania-2025-team-shouryangas.vercel.app/)
