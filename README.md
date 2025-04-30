@@ -1,7 +1,7 @@
-# Welcome to your 
+# Welcome to Our Ai resume analyser for recuriters
 ## Project info
 
-**URL**: 
+**URL**: [https://code-mania-2025-team-shouryangas.vercel.app/](https://code-mania-2025-team-shouryangas.vercel.app/)
 
 ## How can I edit this code?
 
